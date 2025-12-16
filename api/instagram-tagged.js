@@ -16,7 +16,6 @@ export default async function handler(req, res) {
     "id",
     "media_type",
     "media_url",
-    "thumbnail_url",
     "permalink",
     "timestamp",
     "username"
